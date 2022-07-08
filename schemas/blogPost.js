@@ -14,6 +14,11 @@ export default {
       title: 'Slug'
     },
     {
+      type: 'tags',
+      name: 'tags',
+      title: 'Tags'
+    },
+    {
       type: 'richText',
       name: 'body',
       title: 'Body content'
